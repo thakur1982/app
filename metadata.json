@@ -1,0 +1,6 @@
+{
+  "name": "Job Result Wala - Sarkari App",
+  "description": "An interactive, responsive, and robust Android app model for JobResultWala.com, featuring latest job updates, admit cards, exam results, custom push notifications, and a playful offline game.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
